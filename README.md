@@ -1,7 +1,7 @@
 ## Oii, Eu sou a Bruna santtos
 
 
-- 👩‍💻 Estudande de Engenharia de Software, atualmente estou cursando o 2º semestre. 
+- 👩‍💻 Estudante de Engenharia de Software, atualmente estou cursando o 2º semestre. 
 - 📚 Hoje estou estudando HTML, CSS, JavaScript, Java, PHP e Python.
 - 🎯 Interesse: HTML, CSS, JavaScript.
 
