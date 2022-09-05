@@ -1,7 +1,7 @@
 ## Oii, Eu sou a Bruna santtos
 
 
-- 👩‍💻 Estudante de Engenharia de Software e Analise e desenvolvimento de sistema. 
+- 👩‍💻 Estudante de Engnharia de Software.
 - 📚 Hoje estou estudando HTML, CSS, JavaScript, Java, PHP e Python.
 - 🎯 Interesse: HTML, CSS, JavaScript.
 
